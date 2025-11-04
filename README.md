@@ -14,7 +14,6 @@ A simulation of a commercial system including:
 
 📄 Files:
 - `scripts.sql`: Full schema and queries
-- `scripts.sql`: Challenge at the course for improve yours skills
 
 ### 2. Library Management System
 A library database project featuring:
@@ -23,8 +22,8 @@ A library database project featuring:
 - Loan and return tracking for each student
 
 📄 Files:
-- `evaluation.sql`: Full schema and exercises
-
+- `avaliação.sql`:  Full schema and exercises
+  
 ## 🛠️ Technologies
 - **PostgreSQL**
 - **SQL DDL/DML**
