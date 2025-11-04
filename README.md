@@ -34,6 +34,6 @@ A library database project featuring:
 
 ## 📜 Certificate
 
-![Database Course Certificate](./certificate_database_sql.png)
+![Database Course Certificate](./certificate_database_sql.jpg)
 
 
